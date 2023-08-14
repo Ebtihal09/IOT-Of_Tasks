@@ -6,6 +6,7 @@ The RX of one Arduino Uno board is connected with the TX pin of the other Arduin
 One of the Arduino boards is the sender, and the other Arduino is the receiver.
 The pushbutton is connected to the Arduino board that acts as a transmitter and the LED is connected to the Arduino board that acts as a receiver, where the transmitter will send 1 if the pushbutton is clicked, and the receiver if it reads from the serial monitor 1 number the LED will light up.
 ![image](https://github.com/Ebtihal09/IOT-Tasks/assets/124944456/ebf35d4a-1ecf-45a0-8ef2-5d7d5158fbbf)
+The link on the Tinkercad :https://www.tinkercad.com/things/c7HFPJkKgIF
 
 
 
